@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://youtu.be/TvWS_5B5R1I">
-    <img src=".github/assets/preview.png" alt="Texto AAA" style="width: 80%;">
+    <img src=".github/assets/preview.gif" alt="Texto AAA" style="width: 80%;">
   </a>
 
   <br>
